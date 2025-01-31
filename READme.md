@@ -11,7 +11,6 @@ This project implements three state-of-the-art deep learning architectures (LSTM
   - GRU (Gated Recurrent Unit) for efficient sequence processing
   - Transformer with temporal attention for parallel processing
 - Multi-day price prediction capabilities
-- Interactive visualization tools for prediction analysis
 - Comprehensive performance metrics evaluation
 
 ## Requirements
@@ -62,7 +61,6 @@ pip install tensorflow numpy pandas yfinance scikit-learn matplotlib
 - MinMax scaling for price normalization
 - Sequence creation with configurable window sizes
 - Train/validation/test split with time-aware shuffling
-- Feature engineering for technical indicators
 
 ## Making Predictions
 
